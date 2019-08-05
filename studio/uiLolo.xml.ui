@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\PT_Cocos2dx\Lolo\studio</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>E:\PT_Cocos2dx\Lolo\studio\Resources</Resources>
+  <Name>uiLolo</Name>
+  <JsonFileName>uiLolo.json</JsonFileName>
+  <JsonFolder>E:\PT_Cocos2dx\Lolo\studio\Json</JsonFolder>
+  <JsonList>
+    <string>GameScene.json</string>
+    <string>GameOverScene.json</string>
+    <string>MainScene.json</string>
+    <string>IntroScene.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>1280</Width>
+    <Height>720</Height>
+  </CanvasSize>
+  <filePath>E:\PT_Cocos2dx\Lolo\studio\uiLolo.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>uiLolo0.plist</string>
+    <string>uiLolo1.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>uiLolo0.png</string>
+    <string>uiLolo1.png</string>
+    <string>uiLolo0.png</string>
+    <string>uiLolo1.png</string>
+    <string>uiLolo0.png</string>
+    <string>uiLolo1.png</string>
+    <string>uiLolo0.png</string>
+    <string>uiLolo1.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>IntroScene.json</CurrentUIJson>
+</UIProject>
