@@ -41,6 +41,13 @@ void GameOverScene::initUI()
 	{
 		drawBoard();
 	});
+    
+    auto btn_shop = GET_BUTTON(m_Layout, "btnShop");
+    auto btn_rank = GET_BUTTON(m_Layout, "btnRank");
+    auto btn_share = GET_BUTTON(m_Layout, "btnShare");
+    btn_shop->setVisible(false);
+    btn_rank->setVisible(false);
+    btn_share->setVisible(false);
 }
 
 void GameOverScene::createNewSquare(int id, int value, int i, int j)
